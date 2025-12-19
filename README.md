@@ -171,7 +171,7 @@ Cleaned parent folder: Downloads
 
 ## 👨‍🎓 Author
 
-**Name:** Kovid
+**Name:** HARSH
 **Role:** Engineering Student
 **Subject:** Operating Systems
 **Project Type:** Academic + AI-based
