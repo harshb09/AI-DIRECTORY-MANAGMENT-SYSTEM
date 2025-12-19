@@ -1,0 +1,577 @@
+getting started with python.pdf → Documents
+Infosys C.pdf → Documents
+Neocolab.pdf → Documents
+Python Capston.pdf → Documents
+Python Data Structure.pdf → Documents
+Python for Everybody.pdf → Documents
+Python Web Data.pdf → Documents
+Using Databases with Puthon.pdf → Documents
+40 (1).png → Images
+40 (3).png → Images
+be 10x workshop.png → Images
+WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg → Images
+SUCCESS: Deleted main folder certificates
+Skipped (busy): 40 (1).png
+Skipped (busy): 40 (3).png
+Skipped (busy): be 10x workshop.png
+Skipped (busy): Infosys C.pdf
+Skipped (busy): Neocolab.pdf
+Skipped (busy): WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg
+Skipped (busy): getting started with python.pdf
+Skipped (busy): Python Capston.pdf
+Skipped (busy): Python Data Structure.pdf
+Skipped (busy): Python for Everybody.pdf
+Skipped (busy): Python Web Data.pdf
+Skipped (busy): Using Databases with Puthon.pdf
+SUCCESS: Deleted main folder certificates
+Skipped (busy): 40 (1).png
+Skipped (busy): 40 (3).png
+Skipped (busy): be 10x workshop.png
+Skipped (busy): Infosys C.pdf
+Skipped (busy): Neocolab.pdf
+Skipped (busy): WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg
+Skipped (busy): getting started with python.pdf
+Skipped (busy): Python Capston.pdf
+Skipped (busy): Python Data Structure.pdf
+Skipped (busy): Python for Everybody.pdf
+Skipped (busy): Python Web Data.pdf
+Skipped (busy): Using Databases with Puthon.pdf
+40 (1).png → Images
+40 (3).png → Images
+be 10x workshop.png → Images
+Infosys C.pdf → Documents
+Neocolab.pdf → Documents
+WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg → Images
+getting started with python.pdf → Documents
+Python Capston.pdf → Documents
+Python Data Structure.pdf → Documents
+Python for Everybody.pdf → Documents
+Python Web Data.pdf → Documents
+Using Databases with Puthon.pdf → Documents
+Cleaned folder: Python for everybody
+Skipped (busy): getting started with python.pdf
+Skipped (busy): Python Capston.pdf
+Skipped (busy): Python Data Structure.pdf
+Skipped (busy): Python for Everybody.pdf
+Skipped (busy): Python Web Data.pdf
+Skipped (busy): Using Databases with Puthon.pdf
+Skipped (busy): desktop.ini
+Skipped (busy): desktop.ini
+Skipped (busy): desktop.ini
+40 (1).png → Images
+40 (3).png → Images
+be 10x workshop.png → Images
+Infosys C.pdf → Documents
+Neocolab.pdf → Documents
+WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg → Images
+getting started with python.pdf → Documents
+Python Capston.pdf → Documents
+Python Data Structure.pdf → Documents
+Python for Everybody.pdf → Documents
+Python Web Data.pdf → Documents
+Using Databases with Puthon.pdf → Documents
+Cleaned folder: Python for everybody
+Cleaned parent folder: certificates
+Skipped (busy): getting started with python.pdf
+Skipped (busy): Python Capston.pdf
+Skipped (busy): Python Data Structure.pdf
+Skipped (busy): Python for Everybody.pdf
+Skipped (busy): Python Web Data.pdf
+Skipped (busy): Using Databases with Puthon.pdf
+Skipped (busy): desktop.ini
+Skipped (busy): desktop.ini
+Skipped (busy): desktop.ini
+Skipped (busy): desktop.ini
+Skipped (busy): desktop.ini
+Skipped (busy): desktop.ini
+40 (1).png → Images
+40 (3).png → Images
+be 10x workshop.png → Images
+Infosys C.pdf → Documents
+Neocolab.pdf → Documents
+WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg → Images
+getting started with python.pdf → Documents
+Python Capston.pdf → Documents
+Python Data Structure.pdf → Documents
+Python for Everybody.pdf → Documents
+Python Web Data.pdf → Documents
+Using Databases with Puthon.pdf → Documents
+Cleaned folder: Python for everybody
+Cleaned parent folder: certificates
+Skipped (busy): getting started with python.pdf
+Skipped (busy): Python Capston.pdf
+Skipped (busy): Python Data Structure.pdf
+Skipped (busy): Python for Everybody.pdf
+Skipped (busy): Python Web Data.pdf
+Skipped (busy): Using Databases with Puthon.pdf
+Skipped (busy): desktop.ini
+Skipped (busy): desktop.ini
+Skipped (busy): desktop.ini
+Skipped (busy): desktop.ini
+Skipped (busy): desktop.ini
+Skipped (busy): desktop.ini
+getting started with python.pdf → Documents
+Infosys C.pdf → Documents
+Neocolab.pdf → Documents
+Python Capston.pdf → Documents
+Python Data Structure.pdf → Documents
+Python for Everybody.pdf → Documents
+Python Web Data.pdf → Documents
+Using Databases with Puthon.pdf → Documents
+40 (1).png → Images
+40 (3).png → Images
+be 10x workshop.png → Images
+WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg → Images
+getting started with python.pdf → Documents
+Infosys C.pdf → Documents
+Neocolab.pdf → Documents
+Python Capston.pdf → Documents
+Python Data Structure.pdf → Documents
+Python for Everybody.pdf → Documents
+Python Web Data.pdf → Documents
+Using Databases with Puthon.pdf → Documents
+40 (1).png → Images
+40 (3).png → Images
+be 10x workshop.png → Images
+WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg → Images
+getting started with python.pdf → Documents
+Python Capston.pdf → Documents
+Python Data Structure.pdf → Documents
+Python for Everybody.pdf → Documents
+Python Web Data.pdf → Documents
+Using Databases with Puthon.pdf → Documents
+getting started with python.pdf → Documents
+Infosys C.pdf → Documents
+Neocolab.pdf → Documents
+Python Capston.pdf → Documents
+Python Data Structure.pdf → Documents
+Python for Everybody.pdf → Documents
+Python Web Data.pdf → Documents
+Using Databases with Puthon.pdf → Documents
+40 (1).png → Images
+40 (3).png → Images
+be 10x workshop.png → Images
+WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg → Images
+getting started with python.pdf → Documents
+Python Capston.pdf → Documents
+Python Data Structure.pdf → Documents
+Python for Everybody.pdf → Documents
+Python Web Data.pdf → Documents
+Using Databases with Puthon.pdf → Documents
+40 (1).png → Images
+40 (3).png → Images
+be 10x workshop.png → Images
+Infosys C.pdf → Documents
+Neocolab.pdf → Documents
+WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg → Images
+40 (1).png → Images
+40 (3).png → Images
+be 10x workshop.png → Images
+Infosys C.pdf → Documents
+Neocolab.pdf → Documents
+WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg → Images
+getting started with python.pdf → Documents
+Python Capston.pdf → Documents
+Python Data Structure.pdf → Documents
+Python for Everybody.pdf → Documents
+Python Web Data.pdf → Documents
+Using Databases with Puthon.pdf → Documents
+Cleaned folder: Python for everybody
+Cleaned parent folder: certificates - Copy
+Skipped (busy): getting started with python.pdf
+Skipped (busy): Python Capston.pdf
+Skipped (busy): Python Data Structure.pdf
+Skipped (busy): Python for Everybody.pdf
+Skipped (busy): Python Web Data.pdf
+Skipped (busy): Using Databases with Puthon.pdf
+getting started with python.pdf → Documents
+Infosys C.pdf → Documents
+Neocolab.pdf → Documents
+Python Capston.pdf → Documents
+Python Data Structure.pdf → Documents
+Python for Everybody.pdf → Documents
+Python Web Data.pdf → Documents
+Using Databases with Puthon.pdf → Documents
+40 (1).png → Images
+40 (3).png → Images
+be 10x workshop.png → Images
+WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg → Images
+Cleaned empty folder: certificates
+Cleaned empty folder: certificates
+Cleaned empty folder: certificates
+Cleaned empty folder: certificates
+40 (1).png → Images
+Cleaned folder: certificates
+Skipped (busy): 40 (1).png
+Skipped (busy): 40 (3).png
+Skipped (busy): be 10x workshop.png
+Skipped (busy): Infosys C.pdf
+Skipped (busy): Neocolab.pdf
+Skipped (busy): WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg
+Skipped (busy): getting started with python.pdf
+Skipped (busy): Python Capston.pdf
+Skipped (busy): Python Data Structure.pdf
+Skipped (busy): Python for Everybody.pdf
+Skipped (busy): Python Web Data.pdf
+Skipped (busy): Using Databases with Puthon.pdf
+Cleaned empty folder: certificates
+Cleaned empty folder: certificates
+Cleaned empty folder: certificates
+40 (1).png → Images
+Cleaned folder: certificates
+Skipped (busy): 40 (1).png
+Skipped (busy): 40 (3).png
+Skipped (busy): be 10x workshop.png
+Skipped (busy): Infosys C.pdf
+Skipped (busy): Neocolab.pdf
+Skipped (busy): WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg
+Skipped (busy): getting started with python.pdf
+Skipped (busy): Python Capston.pdf
+Skipped (busy): Python Data Structure.pdf
+Skipped (busy): Python for Everybody.pdf
+Skipped (busy): Python Web Data.pdf
+Skipped (busy): Using Databases with Puthon.pdf
+Cleaned empty folder: certificates
+Cleaned empty folder: certificates
+Cleaned empty folder: certificates
+Cleaned empty folder: certificates
+40 (1).png → Images
+Cleaned folder: certificates
+Skipped (busy): 40 (1).png
+Skipped (busy): 40 (3).png
+Skipped (busy): be 10x workshop.png
+Skipped (busy): Infosys C.pdf
+Skipped (busy): Neocolab.pdf
+Skipped (busy): WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg
+Skipped (busy): getting started with python.pdf
+Skipped (busy): Python Capston.pdf
+Skipped (busy): Python Data Structure.pdf
+Skipped (busy): Python for Everybody.pdf
+Skipped (busy): Python Web Data.pdf
+Skipped (busy): Using Databases with Puthon.pdf
+40 (1).png → Images
+40 (3).png → Images
+be 10x workshop.png → Images
+Infosys C.pdf → Documents
+Neocolab.pdf → Documents
+WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg → Images
+getting started with python.pdf → Documents
+Python Capston.pdf → Documents
+Python Data Structure.pdf → Documents
+Python for Everybody.pdf → Documents
+Python Web Data.pdf → Documents
+Using Databases with Puthon.pdf → Documents
+Cleaned folder: Python for everybody
+Cleaned parent folder: certificates
+Skipped (busy): getting started with python.pdf
+Skipped (busy): Python Capston.pdf
+Skipped (busy): Python Data Structure.pdf
+Skipped (busy): Python for Everybody.pdf
+Skipped (busy): Python Web Data.pdf
+Skipped (busy): Using Databases with Puthon.pdf
+getting started with python.pdf → Documents
+Python Capston.pdf → Documents
+Python Data Structure.pdf → Documents
+Python for Everybody.pdf → Documents
+Python Web Data.pdf → Documents
+Using Databases with Puthon.pdf → Documents
+40 (1).png → Images
+40 (3).png → Images
+be 10x workshop.png → Images
+Infosys C.pdf → Documents
+Neocolab.pdf → Documents
+WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg → Images
+getting started with python.pdf → Documents
+Infosys C.pdf → Documents
+Neocolab.pdf → Documents
+Python Capston.pdf → Documents
+Python Data Structure.pdf → Documents
+Python for Everybody.pdf → Documents
+Python Web Data.pdf → Documents
+Using Databases with Puthon.pdf → Documents
+40 (1).png → Images
+40 (3).png → Images
+be 10x workshop.png → Images
+WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg → Images
+getting started with python.pdf → Documents
+Infosys C.pdf → Documents
+Neocolab.pdf → Documents
+Python Capston.pdf → Documents
+Python Data Structure.pdf → Documents
+Python for Everybody.pdf → Documents
+Python Web Data.pdf → Documents
+Using Databases with Puthon.pdf → Documents
+40 (1).png → Images
+40 (3).png → Images
+be 10x workshop.png → Images
+WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg → Images
+getting started with python.pdf → Documents
+Infosys C.pdf → Documents
+Neocolab.pdf → Documents
+Python Capston.pdf → Documents
+Python Data Structure.pdf → Documents
+Python for Everybody.pdf → Documents
+Python Web Data.pdf → Documents
+Using Databases with Puthon.pdf → Documents
+40 (1).png → Images
+40 (3).png → Images
+be 10x workshop.png → Images
+WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg → Images
+getting started with python.pdf → Documents
+Infosys C.pdf → Documents
+Neocolab.pdf → Documents
+Python Capston.pdf → Documents
+Python Data Structure.pdf → Documents
+Python for Everybody.pdf → Documents
+Python Web Data.pdf → Documents
+Using Databases with Puthon.pdf → Documents
+40 (1).png → Images
+40 (3).png → Images
+be 10x workshop.png → Images
+WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg → Images
+getting started with python.pdf → Documents
+Python Capston.pdf → Documents
+Python Data Structure.pdf → Documents
+Python for Everybody.pdf → Documents
+Python Web Data.pdf → Documents
+Using Databases with Puthon.pdf → Documents
+40 (1).png → Images
+40 (3).png → Images
+be 10x workshop.png → Images
+Infosys C.pdf → Documents
+Neocolab.pdf → Documents
+WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg → Images
+getting started with python.pdf → Documents
+Infosys C.pdf → Documents
+Neocolab.pdf → Documents
+Python Capston.pdf → Documents
+Python Data Structure.pdf → Documents
+Python for Everybody.pdf → Documents
+Python Web Data.pdf → Documents
+Using Databases with Puthon.pdf → Documents
+40 (1).png → Images
+40 (3).png → Images
+be 10x workshop.png → Images
+WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg → Images
+Deleted folder: certificates
+Deleted folder: certificates
+Skipped (busy): 40 (1).png
+Skipped (busy): 40 (3).png
+Skipped (busy): be 10x workshop.png
+Skipped (busy): Infosys C.pdf
+Skipped (busy): Neocolab.pdf
+Skipped (busy): WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg
+Skipped (busy): getting started with python.pdf
+Skipped (busy): Python Capston.pdf
+Skipped (busy): Python Data Structure.pdf
+Skipped (busy): Python for Everybody.pdf
+Skipped (busy): Python Web Data.pdf
+Skipped (busy): Using Databases with Puthon.pdf
+getting started with python.pdf → Documents
+Python Capston.pdf → Documents
+Python Data Structure.pdf → Documents
+Python for Everybody.pdf → Documents
+Python Web Data.pdf → Documents
+Using Databases with Puthon.pdf → Documents
+40 (1).png → Images
+40 (3).png → Images
+be 10x workshop.png → Images
+Infosys C.pdf → Documents
+Neocolab.pdf → Documents
+WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg → Images
+Deleted folder: certificates
+Deleted folder: certificates
+Skipped (busy): 40 (1).png
+Skipped (busy): 40 (3).png
+Skipped (busy): be 10x workshop.png
+Skipped (busy): Infosys C.pdf
+Skipped (busy): Neocolab.pdf
+Skipped (busy): WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg
+Skipped (busy): getting started with python.pdf
+Skipped (busy): Python Capston.pdf
+Skipped (busy): Python Data Structure.pdf
+Skipped (busy): Python for Everybody.pdf
+Skipped (busy): Python Web Data.pdf
+Skipped (busy): Using Databases with Puthon.pdf
+getting started with python.pdf → Documents
+Infosys C.pdf → Documents
+Neocolab.pdf → Documents
+Python Capston.pdf → Documents
+Python Data Structure.pdf → Documents
+Python for Everybody.pdf → Documents
+Python Web Data.pdf → Documents
+Using Databases with Puthon.pdf → Documents
+40 (1).png → Images
+40 (3).png → Images
+be 10x workshop.png → Images
+WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg → Images
+40 (1).png → Images
+40 (3).png → Images
+be 10x workshop.png → Images
+Infosys C.pdf → Documents
+Neocolab.pdf → Documents
+WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg → Images
+getting started with python.pdf → Documents
+Python Capston.pdf → Documents
+Python Data Structure.pdf → Documents
+Python for Everybody.pdf → Documents
+Python Web Data.pdf → Documents
+Using Databases with Puthon.pdf → Documents
+Deleted folder: certificates
+Skipped (busy): 40 (3).png
+Skipped (busy): be 10x workshop.png
+Skipped (busy): Infosys C.pdf
+getting started with python.pdf → Documents
+Python Capston.pdf → Documents
+Python Data Structure.pdf → Documents
+Python for Everybody.pdf → Documents
+Python Web Data.pdf → Documents
+Using Databases with Puthon.pdf → Documents
+40 (1).png → Images
+40 (3).png → Images
+be 10x workshop.png → Images
+Infosys C.pdf → Documents
+Neocolab.pdf → Documents
+WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg → Images
+getting started with python.pdf → Documents
+Infosys C.pdf → Documents
+Neocolab.pdf → Documents
+Python Capston.pdf → Documents
+Python Data Structure.pdf → Documents
+Python for Everybody.pdf → Documents
+Python Web Data.pdf → Documents
+Using Databases with Puthon.pdf → Documents
+40 (1).png → Images
+40 (3).png → Images
+be 10x workshop.png → Images
+WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg → Images
+Deleted folder: certificates
+getting started with python.pdf → Documents
+Python Capston.pdf → Documents
+Python Data Structure.pdf → Documents
+Python for Everybody.pdf → Documents
+Python Web Data.pdf → Documents
+Using Databases with Puthon.pdf → Documents
+40 (1).png → Images
+40 (3).png → Images
+be 10x workshop.png → Images
+Infosys C.pdf → Documents
+Neocolab.pdf → Documents
+WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg → Images
+Deleted folder: certificates
+40 (1).png → Images
+40 (3).png → Images
+be 10x workshop.png → Images
+Infosys C.pdf → Documents
+Neocolab.pdf → Documents
+WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg → Images
+getting started with python.pdf → Documents
+Python Capston.pdf → Documents
+Python Data Structure.pdf → Documents
+Python for Everybody.pdf → Documents
+Python Web Data.pdf → Documents
+Using Databases with Puthon.pdf → Documents
+Deleted folder: certificates
+Skipped (busy): 40 (3).png
+Skipped (busy): be 10x workshop.png
+Skipped (busy): Infosys C.pdf
+Skipped (busy): Neocolab.pdf
+Skipped (busy): WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg
+Skipped (busy): getting started with python.pdf
+Skipped (busy): Python Capston.pdf
+Skipped (busy): Python Data Structure.pdf
+Skipped (busy): Python for Everybody.pdf
+Skipped (busy): Python Web Data.pdf
+Skipped (busy): Using Databases with Puthon.pdf
+40 (1).png → Images
+40 (3).png → Images
+be 10x workshop.png → Images
+Infosys C.pdf → Documents
+Neocolab.pdf → Documents
+WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg → Images
+getting started with python.pdf → Documents
+Python Capston.pdf → Documents
+Python Data Structure.pdf → Documents
+Python for Everybody.pdf → Documents
+Python Web Data.pdf → Documents
+Using Databases with Puthon.pdf → Documents
+Deleted folder: certificates
+Skipped (busy): 40 (3).png
+Skipped (busy): be 10x workshop.png
+Skipped (busy): Infosys C.pdf
+Skipped (busy): Neocolab.pdf
+Skipped (busy): WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg
+Skipped (busy): getting started with python.pdf
+Skipped (busy): Python Capston.pdf
+Skipped (busy): Python Data Structure.pdf
+Skipped (busy): Python for Everybody.pdf
+getting started with python.pdf → Documents
+Python Capston.pdf → Documents
+Python Data Structure.pdf → Documents
+Python for Everybody.pdf → Documents
+Python Web Data.pdf → Documents
+Using Databases with Puthon.pdf → Documents
+40 (1).png → Images
+40 (3).png → Images
+be 10x workshop.png → Images
+Infosys C.pdf → Documents
+Neocolab.pdf → Documents
+WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg → Images
+Deleted folder: certificates
+file_0000000078b051f786a2ed1a6a135273_conversation_id=67eec608-3414-8011-a873-7d8bede163da&message_id=c3c530f8-c15a-4f90-b16e-143a10343a76 (1).webp → Images
+file_0000000078b051f786a2ed1a6a135273_conversation_id=67eec608-3414-8011-a873-7d8bede163da&message_id=c3c530f8-c15a-4f90-b16e-143a10343a76.webp → Images
+IMG_20250203_224846_053.webp → Images
+IMG_20250224_154200_449.webp → Images
+IMG_20250227_220011_174.webp → Images
+IMG_20250227_220028_747.webp → Images
+IMG-20240723-WA0005.jpg → Images
+IMG-20250128-WA0001.jpg → Images
+IMG-20250214-WA0008.jpg → Images
+IMG-20250425-WA0006.jpg → Images
+Deleted folder: Pictures
+Skipped (busy): file_0000000078b051f786a2ed1a6a135273_conversation_id=67eec608-3414-8011-a873-7d8bede163da&message_id=c3c530f8-c15a-4f90-b16e-143a10343a76.webp
+Skipped (busy): IMG_20250203_224846_053.webp
+Skipped (busy): IMG_20250224_154200_449.webp
+Skipped (busy): IMG_20250227_220011_174.webp
+Skipped (busy): IMG_20250227_220028_747.webp
+Skipped (busy): IMG-20240723-WA0005.jpg
+Skipped (busy): IMG-20250128-WA0001.jpg
+Skipped (busy): IMG-20250214-WA0008.jpg
+Skipped (busy): IMG-20250425-WA0006.jpg
+Skipped (busy): desktop.ini
+Skipped (busy): desktop.ini
+Skipped (busy): desktop.ini
+Skipped (busy): desktop.ini
+Skipped (busy): desktop.ini
+Skipped (busy): desktop.ini
+Skipped (busy): desktop.ini
+Skipped (busy): desktop.ini
+Skipped (busy): desktop.ini
+Visual Studio Code.lnk → Shortcuts
+Roblox Player.lnk → Shortcuts
+getting started with python.pdf → Documents
+Infosys C.pdf → Documents
+Neocolab.pdf → Documents
+Python Capston.pdf → Documents
+Python Data Structure.pdf → Documents
+Python for Everybody.pdf → Documents
+Python Web Data.pdf → Documents
+Using Databases with Puthon.pdf → Documents
+40 (1).png → Images
+40 (3).png → Images
+be 10x workshop.png → Images
+file_0000000078b051f786a2ed1a6a135273_conversation_id=67eec608-3414-8011-a873-7d8bede163da&message_id=c3c530f8-c15a-4f90-b16e-143a10343a76 (1).webp → Images
+file_0000000078b051f786a2ed1a6a135273_conversation_id=67eec608-3414-8011-a873-7d8bede163da&message_id=c3c530f8-c15a-4f90-b16e-143a10343a76.webp → Images
+IMG-20240723-WA0005.jpg → Images
+IMG-20250128-WA0001.jpg → Images
+IMG-20250214-WA0008.jpg → Images
+IMG-20250425-WA0006.jpg → Images
+IMG_20250203_224846_053.webp → Images
+IMG_20250224_154200_449.webp → Images
+IMG_20250227_220011_174.webp → Images
+IMG_20250227_220028_747.webp → Images
+WhatsApp Image 2025-04-01 at 12.09.08_1b3a6a96.jpg → Images
+Visual Studio Code.lnk → Shortcuts
+Deleted folder: Test_Folder
+Skipped (busy): Roblox Player.lnk
+Neo-Browser-Setup-1.1.11.exe → Executables
